@@ -1,5 +1,6 @@
 # Overview
-This is the accompanying research data for the paper de Guzman et al. (under review in GCB) - **Water diversion and pollution interactively shape freshwater food webs through bottom-up mechanisms**.
+This is the accompanying research data for the paper de Guzman et al. (2021) - **Water diversion and pollution interactively shape freshwater food webs through bottom-up mechanisms** published in GCB.
+https://onlinelibrary.wiley.com/share/MUXPV8GJV3HPUUU5BTIR?target=10.1111/gcb.16026
 
 Three datasets are provided.
 
